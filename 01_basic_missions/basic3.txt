@@ -1,0 +1,2 @@
+1. Open the page source
+2. The password is explicitly written in password.php file !
