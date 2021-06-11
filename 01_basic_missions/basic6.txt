@@ -1,0 +1,3 @@
+1. Enter a specific text to encrypt
+2. Compare ASCII values of charachters of original text and its encrypted text
+3. Find the encryption algorithm
