@@ -1,0 +1,2 @@
+1. Open the page source
+2. Because there is no password file, just press the submit button without entering any password (NULL)
