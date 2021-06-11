@@ -1,0 +1,5 @@
+- The script gets the arguments of "cal" command and excutes the whole command in UNIX bash
+- So we can append another command and excute it in the UNIX bash
+- For example we can enter "&& ls -la" in the text box and press "view" button
+- This will execute the command "cal && ls -la" in UNIX which first prints the output of "cal" 
+  and then prints the output of "ls -la" and lists all files in current directory
