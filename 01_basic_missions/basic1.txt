@@ -1,0 +1,2 @@
+1. Open the page source
+2. Password is commented in HTML
